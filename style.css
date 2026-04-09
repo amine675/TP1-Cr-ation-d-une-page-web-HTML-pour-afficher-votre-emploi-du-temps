@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: #333;
+  background-color: #fff;
+}
+
+h1 {
+  color: #222;
+  font-size: 28px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  color: #0055a4;
+  font-size: 16px;
+  border-bottom: 2px solid #0055a4;
+  padding-bottom: 4px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 14px;
+  margin: 5px 0;
+  color: #444;
+}
+
+strong {
+  color: #222;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.job {
+  margin-bottom: 12px;
+}
